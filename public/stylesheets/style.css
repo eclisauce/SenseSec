@@ -2,15 +2,37 @@
     position: absolute;
     top:40px
  }
+ header{
+     width: 100%;
+     height: 100%;
+ }
+ .header-text {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    right: auto;
+    width: 760px;
+    color:#f9f9f9;
+    padding: 16px;
+    border-radius: 4px 8px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    
+}
 
- .flex-container {
-    display: flex;
-    background-color: DodgerBlue;
-  }
-  
-  .flex-container > div {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
-  }
+.service-item{
+align-content: center;
+}
+
+.carousel.carousel-fade .carousel-item {
+    display: block;
+    opacity: 0;
+    transition: opacity ease-out .7s;
+}
+
+.carousel.carousel-fade .carousel-item.active {
+    opacity: 1 !important;
+}
+h2 {
+    font-size: 50px;
+}
