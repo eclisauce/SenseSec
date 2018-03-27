@@ -2,11 +2,11 @@ const express = require('express');
 
 let app = express();
 
-let routes = require('./routes');
-
-let path = require('path');
+const routes = require('./routes');
 
 app.set('view engine', 'ejs');
+
+const path = require('path');
 
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -14,5 +14,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', routes.home);
 
+
 // Listen on port 3000
-app.listen(3000, ()=> {console.log("listening on port 3000");});
+app.listen(process.env.PORT || 3000, ()=> {console.log("listening on port 3000");});

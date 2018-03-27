@@ -1,17 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-
   <% include partials/head.ejs %>
-
 </head>
+
 <body>
-  <div class="">
-    <h1>HELLO!!!</h1>
-  </div>
-    
+  <header>
+    <div class="container-fluid">
+      <nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-transparent">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Dropdown
+            </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <!-- <h1 class="text-center text-light mt-5">SenseSec</h1> -->
+      <div class="text-center">
+        <img src="../images/logo.png" alt="" class="img-fluid pt-5">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 text-center mx-auto pt-5 mt-2 mb-5">
+          <h1>Sensor Security for the modern world</h1>
+          <h3>A tailor made security system for sensors</h3>
+        </div>
+        </div>
+
+        <div class="row">
+
+        <div class="bg-primary col-12">
+            <div class="card border-0 d-inline-block">
+              <span class="fa-stack fa-4x align-self-center">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fas fa-shield-alt fa-stack-1x text-primary"></i>
+              </span>
+              <div class="card-body text-center">
+                <h4><strong>Security</strong></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="card border-0 d-inline-block">
+              <span class="fa-stack fa-4x align-self-center">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fas fa-battery-three-quarters fa-stack-1x text-primary"></i>
+              </span>
+              <div class="card-body text-center">
+                <h4><strong>Battery</strong></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="card border-0 d-inline-block">
+              <span class="fa-stack fa-4x align-self-center">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fas fa-wifi fa-stack-1x text-primary"></i>
+              </span>
+              <div class="card-body text-center">
+                <h4><strong>Range</strong></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="card border-0 d-inline-block">
+              <span class="fa-stack fa-4x align-self-center">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fas fa-cloud fa-stack-1x text-primary"></i>
+              </span>
+              <div class="card-body text-center">
+                <h4><strong>Weatherproof</strong></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+
+          <div class="card-deck mt-4 col-12">
+            <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        </div>
+
+      </div>
+  </main>
+
 
   <% include partials/scripts.ejs %>
 
 </body>
+
 </html>
