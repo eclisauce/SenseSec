@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eclisauce/SenseSec/issues"
   },
-  "homepage": "https://github.com/eclisauce/SenseSec#readme"
+  "homepage": "https://github.com/eclisauce/SenseSec#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
