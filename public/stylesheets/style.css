@@ -36,3 +36,8 @@ align-content: center;
 h2 {
     font-size: 50px;
 }
+
+.img-fluid{
+    max-width: 40%;
+    /*height: auto;*/
+}
