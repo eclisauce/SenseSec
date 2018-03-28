@@ -2,6 +2,7 @@
   "footer":[{
     "titel": "SenseSec",
     "company": "by q2d Solutions",
+    "image": "q2d.png",
     "adressStreet":"Scheelevägen 17",
     "adressCity": "223 63 Lund, Sweden",
     "iconPhone": "fas fa-phone",
