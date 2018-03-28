@@ -6,7 +6,13 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  position: relative;
+}
+header #logo {
+  margin-top: 150px;
+}
+html,
+body {
+  height: 100%;
 }
 main .card {
   background-color: rgba(0, 0, 0, 0);
