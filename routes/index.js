@@ -28,8 +28,17 @@ exports.teknik = function(req, res){
 	let footer = footerJson.footer;
 
 	res.render('teknik', {
-		title: "SenseSec:teknik",
+		title: "SenseSec| Teknik",
 		footer: footer
 	});
 
+};
+
+exports.fordelar = function(req, res){
+	let footer = footerJson.footer;
+
+	res.render('fordelar', {
+		title: "SenseSec| Fördelar",
+		footer: footer
+	});
 };
