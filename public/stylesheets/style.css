@@ -1,0 +1,52 @@
+header {
+  height: 400px;
+  width: 100%;
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+header #logo {
+  margin-top: 130px;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);
+  -webkit-transition: all 0.6s ease-out;
+  -moz-transition: all 0.6s ease-out;
+  -o-transition: all 0.6s ease-out;
+  -ms-transition: all 0.6s ease-out;
+  transition: all 0.6s ease-out;
+}
+.navbar #logo-nav {
+  width: 60%;
+  max-width: 300px;
+}
+.navbar.scrolled {
+  background: #444444;
+  /* IE */
+  background: rgba(11, 105, 191, 0.95);
+  /* NON-IE */
+}
+main .card {
+  background-color: rgba(0, 0, 0, 0);
+}
+main .field1 {
+  height: 400px;
+  margin: 6px;
+}
+footer #to-top {
+  display: none;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Source Serif Pro', serif;
+}
+p {
+  font-family: 'Noto Sans', sans-serif;
+}

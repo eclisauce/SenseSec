@@ -1,0 +1,15 @@
+<footer class="container-fluid" id="contact">
+  <hr>
+  <div class="row">
+    <div class="text-center mt-3 mb-2 col-12 col-lg-6 mx-auto">
+      <h4><%= footer[0].titel %></h4>
+      <p>by</p>
+      <img src="../images/<%= footer[0].image %>" class="img-fluid" alt="">
+      <p><%= footer[0].adressStreet %></p>
+      <p><%= footer[0].adressCity %></p>
+      <p><i class="<%= footer[0].iconPhone %>"></i> <%= footer[0].phone %></p>
+      <p><i class="<%= footer[0].iconEmail %>"></i> <%= footer[0].email %></p>
+    </div>
+  </div>
+  <a id="to-top" href="#top" class="btn btn-dark btn-lg" data-toggle="tooltip" data-placement="top" title="Scroll to top"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
+</footer>

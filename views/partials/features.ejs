@@ -1,0 +1,25 @@
+<div class="row text-center mt-3">
+  <section id="services" class="services bg-primary col-12">
+    <div class="col-lg-12 col-lg-offset-1 mt-3 mb-3">
+      <h2 class="text-light"><%= headings[0].featureHeading %></h2>
+      <div class="row mt-2">
+        <!-- Loop start -->
+        <% for (feature of features){ %>
+          <div class="col-md-3 col-sm-6">
+            <div class="service-item text-light">
+              <span class="fa-stack fa-4x">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="<%= feature.icon %> text-primary"></i>
+                </span>
+              <h4><strong><%= feature.titel %></strong></h4>
+              <p>
+                <%= feature.description %>
+              </p>
+            </div>
+          </div>
+          <%}%>
+            <!-- loop slut -->
+      </div>
+    </div>
+  </section>
+</div>
