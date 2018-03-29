@@ -6,10 +6,29 @@
 </head>
 
 <body>
-  <% include partials/nav-bar.ejs %>
-  <main>
+  <header class="teknik-header">
+    <div id="top"></div>
     <div class="container-fluid">
-
+      <% include partials/nav-bar.ejs %>
+    </div>
+  </header>
+  <main>
+    <div class="container teknik-sida">
+      <div class="row">
+        <h1 class="mb-2"><%= headings[0].teknikHeading %></h1>
+        <div class="col-12">
+          <p class="p-2"><%= technique[0].techniqueFieldOne %></p>
+          <div class="mx-auto col-8 p-2">
+            <a href="../images/<%= technique[0].imageOne %>" data-toggle="lightbox"><img src="../images/<%= technique[0].imageOne %>" alt="" class="img-fluid"></a>
+          </div>
+        </div>
+        <div class="bg-danger mt-3 col-12">
+          <p class="p-2"><%= technique[0].techniqueFieldTwo %></p>
+        </div>
+        <div class="bg-warning mt-3 col-12">
+          <p class="p-2"><%= technique[0].techniqueFieldThree %></p>
+        </div>
+      </div>
     </div>
   </main>
   <% include partials/footer.ejs %>
