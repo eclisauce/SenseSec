@@ -23,3 +23,13 @@ exports.home = function(req, res) {
 		siteInformation: siteInformation
 	});
 };
+
+exports.teknik = function(req, res){
+	let footer = footerJson.footer;
+
+	res.render('teknik', {
+		title: "SenseSec:teknik",
+		footer: footer
+	});
+
+};
