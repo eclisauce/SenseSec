@@ -5,6 +5,7 @@ let footerJson = require('../json/footer.json');
 let ourworkJson = require('../json/ourwork.json');
 let siteInformationJson = require('../json/siteInformation.json');
 let teknikJson = require('../json/teknikInformation.json');
+let fordelarJson = require('../json/fordelar.json');
 
 
 exports.home = function(req, res) {
@@ -41,9 +42,13 @@ exports.teknik = function(req, res){
 
 exports.fordelar = function(req, res){
 	let footer = footerJson.footer;
+	let headings = headingsJson.headings;
+	let fordelar = fordelarJson.fordelar;
 
 	res.render('fordelar', {
 		title: "SenseSec | Fördelar",
+		headings: headings,
+		fordelar: fordelar,
 		footer: footer
 	});
 };

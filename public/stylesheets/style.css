@@ -50,6 +50,9 @@ h5 {
 p {
   font-family: 'Noto Sans', sans-serif;
 }
-.teknik-sida {
-  margin-top: 100px;
+.teknik-header {
+  margin-bottom: 150px;
+}
+.fordelar-header {
+  margin-bottom: 150px;
 }

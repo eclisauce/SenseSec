@@ -6,7 +6,8 @@
 </head>
 
 <body>
-  <header>
+  <header class="teknik-header">
+    <div id="top"></div>
     <div class="container-fluid">
       <% include partials/nav-bar.ejs %>
     </div>
@@ -16,13 +17,13 @@
       <div class="row">
         <h1><%= headings[0].teknikHeading %></h1>
         <div class="bg-primary">
-          <p><%= technique[0].techniqueFieldOne %></p>
+          <p class="p-2"><%= technique[0].techniqueFieldOne %></p>
         </div>
         <div class="bg-danger mt-3">
-          <p><%= technique[0].techniqueFieldTwo %></p>
+          <p class="p-2"><%= technique[0].techniqueFieldTwo %></p>
         </div>
         <div class="bg-warning mt-3">
-          <p><%= technique[0].techniqueFieldThree %></p>
+          <p class="p-2"><%= technique[0].techniqueFieldThree %></p>
         </div>
       </div>
     </div>
