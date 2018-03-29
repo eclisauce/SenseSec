@@ -1,0 +1,43 @@
+{
+  "features":[
+              {
+                "titel": "Security",
+                "icon": "fas fa-shield-alt fa-stack-1x",
+                "description": "1Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+              },
+              {
+                "titel": "Battery",
+                "icon": "fas fa-battery-three-quarters fa-stack-1x",
+                "description": "2Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Range",
+                  "icon": "fas fa-wifi fa-stack-1x",
+                  "description": "3Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Weatherproof",
+                  "icon": "fas fa-cloud fa-stack-1x",
+                  "description": "4Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Easy to set-up",
+                  "icon": "far fa-clock fa-stack-1x",
+                  "description": "5Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Location Service",
+                  "icon": "fas fa-location-arrow fa-stack-1x",
+                  "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Indoor penetration",
+                  "icon": "fas fa-home fa-stack-1x",
+                  "description": "7Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                },
+                {
+                  "titel": "Cost effective",
+                  "icon": "fas fa-dollar-sign fa-stack-1x",
+                  "description": "8Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                }]
+}

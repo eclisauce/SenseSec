@@ -1,17 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-
   <% include partials/head.ejs %>
-
 </head>
+
 <body>
-  <div class="">
-    <h1>HELLO!!!</h1>
-  </div>
-    
+  <% include partials/header.ejs %>
+  <main>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 text-center mx-auto pt-5 mt-2 mb-5">
+          <h1><%= headings[0].siteHeading %></h1>
+          <h3><%= siteInformation[0].headingInformation %></h3>
+        </div>
+      </div>
+        <!--Start of plopparna-->
+          <% include partials/features.ejs %>
+        <!--end of plopparna-->
+        <!-- Start of our work -->
+        <% include partials/ourWork.ejs %>
+        <!-- end of our work -->
+    </div>
+  </main>
+  <% include partials/footer.ejs %>
+
 
   <% include partials/scripts.ejs %>
 
 </body>
+
 </html>
