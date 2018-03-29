@@ -6,10 +6,25 @@
 </head>
 
 <body>
-  <% include partials/nav-bar.ejs %>
-  <main>
+  <header>
     <div class="container-fluid">
-
+      <% include partials/nav-bar.ejs %>
+    </div>
+  </header>
+  <main>
+    <div class="container teknik-sida">
+      <div class="row">
+        <h1><%= headings[0].teknikHeading %></h1>
+        <div class="bg-primary">
+          <p><%= technique[0].techniqueFieldOne %></p>
+        </div>
+        <div class="bg-danger mt-3">
+          <p><%= technique[0].techniqueFieldTwo %></p>
+        </div>
+        <div class="bg-warning mt-3">
+          <p><%= technique[0].techniqueFieldThree %></p>
+        </div>
+      </div>
     </div>
   </main>
   <% include partials/footer.ejs %>

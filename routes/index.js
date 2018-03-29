@@ -4,6 +4,7 @@ let headingsJson = require('../json/headings.json');
 let footerJson = require('../json/footer.json');
 let ourworkJson = require('../json/ourwork.json');
 let siteInformationJson = require('../json/siteInformation.json');
+let teknikJson = require('../json/teknikInformation.json');
 
 
 exports.home = function(req, res) {
@@ -26,9 +27,13 @@ exports.home = function(req, res) {
 
 exports.teknik = function(req, res){
 	let footer = footerJson.footer;
+	let headings = headingsJson.headings;
+	let technique = teknikJson.technique;
 
 	res.render('teknik', {
-		title: "SenseSec| Teknik",
+		title: "SenseSec | Teknik",
+		headings: headings,
+		technique: technique,
 		footer: footer
 	});
 
@@ -38,7 +43,7 @@ exports.fordelar = function(req, res){
 	let footer = footerJson.footer;
 
 	res.render('fordelar', {
-		title: "SenseSec| Fördelar",
+		title: "SenseSec | Fördelar",
 		footer: footer
 	});
 };

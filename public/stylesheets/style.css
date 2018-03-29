@@ -1,4 +1,4 @@
-header {
+.main-header {
   height: 400px;
   width: 100%;
   background-image: url('../images/bg.jpg');
@@ -6,7 +6,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
 }
-header #logo {
+.main-header #logo {
   margin-top: 130px;
 }
 .navbar {
@@ -49,4 +49,7 @@ h5 {
 }
 p {
   font-family: 'Noto Sans', sans-serif;
+}
+.teknik-sida {
+  margin-top: 100px;
 }
