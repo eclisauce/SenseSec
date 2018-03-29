@@ -1,18 +1,27 @@
 header {
   height: 400px;
   width: 100%;
-  background-color: #444;
   background-image: url('../images/bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 header #logo {
-  margin-top: 150px;
+  margin-top: 130px;
 }
-html,
-body {
-  height: 100%;
+.navbar {
+  background-color: rgba(11, 105, 191, 0.6);
+  -webkit-transition: all 0.6s ease-out;
+  -moz-transition: all 0.6s ease-out;
+  -o-transition: all 0.6s ease-out;
+  -ms-transition: all 0.6s ease-out;
+  transition: all 0.6s ease-out;
+}
+.navbar.scrolled {
+  background: #444444;
+  /* IE */
+  background: rgba(11, 105, 191, 0.95);
+  /* NON-IE */
 }
 main .card {
   background-color: rgba(0, 0, 0, 0);
