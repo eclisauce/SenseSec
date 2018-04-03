@@ -38,6 +38,10 @@ main #ourwork2 {
   height: 90%;
   width: 90%;
 }
+main #ourwork2Texts {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 2px;
+}
 h1,
 h2,
 h3,
