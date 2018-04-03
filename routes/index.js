@@ -3,6 +3,7 @@ let featuresJson = require('../json/features.json');
 let headingsJson = require('../json/headings.json');
 let footerJson = require('../json/footer.json');
 let ourworkJson = require('../json/ourwork.json');
+let ourwork2Json = require('../json/ourwork2.json');
 let siteInformationJson = require('../json/siteInformation.json');
 let teknikJson = require('../json/teknikInformation.json');
 let fordelarJson = require('../json/fordelar.json');
@@ -14,6 +15,7 @@ exports.home = function(req, res) {
 	let headings = headingsJson.headings;
 	let footer = footerJson.footer;
 	let ourwork = ourworkJson.ourwork;
+	let ourwork2 = ourwork2Json.ourwork2;
 	let siteInformation = siteInformationJson.siteInformation;
 
 	res.render('home', {
@@ -21,7 +23,8 @@ exports.home = function(req, res) {
 		features: features,
 		headings: headings,
 		footer: footer,
-		ourwork:ourwork,
+		ourwork: ourwork,
+		ourwork2: ourwork2,
 		siteInformation: siteInformation
 	});
 };
