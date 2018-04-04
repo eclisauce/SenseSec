@@ -1,7 +1,7 @@
 {
   "features":[
               {
-                "titel": "Security",
+                "titel": "Manage devices",
                 "icon": "fas fa-shield-alt fa-stack-1x",
                 "description": "1Lorem ipsum dolor sit amet, consectetur adipisicing elit."
               },
@@ -11,12 +11,12 @@
                 "description": "2Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
-                  "titel": "Range",
+                  "titel": "Security management",
                   "icon": "fas fa-wifi fa-stack-1x",
                   "description": "3Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
-                  "titel": "Weatherproof",
+                  "titel": "Integration",
                   "icon": "fas fa-cloud fa-stack-1x",
                   "description": "4Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
@@ -26,12 +26,12 @@
                   "description": "5Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
-                  "titel": "Location Service",
+                  "titel": "Life cycle management",
                   "icon": "fas fa-location-arrow fa-stack-1x",
                   "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
-                  "titel": "Indoor penetration",
+                  "titel": "Customized user views",
                   "icon": "fas fa-home fa-stack-1x",
                   "description": "7Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
