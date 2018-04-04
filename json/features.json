@@ -3,7 +3,7 @@
               {
                 "titel": "Manage devices",
                 "icon": "fas fa-shield-alt fa-stack-1x",
-                "description": "1Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "description": "Manage sensors, gateways and servers."
               },
               {
                 "titel": "Monitor",
