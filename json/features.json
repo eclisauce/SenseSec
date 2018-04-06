@@ -18,7 +18,7 @@
                 {
                   "titel": "Life cycle management",
                   "icon": "fas fa-cloud fa-stack-1x",
-                  "description": "Keep track of all parts in the infrastructure at all times"
+                  "description": "Keep track of all parts in the infrastructure and their history"
                 },
                 {
                   "titel": "Integration",
