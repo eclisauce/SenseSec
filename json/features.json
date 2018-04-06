@@ -23,17 +23,17 @@
                 {
                   "titel": "Integration",
                   "icon": "far fa-clock fa-stack-1x",
-                  "description": "Easy integration to your existing systems"
+                  "description": "Integration to your existing systems"
                 },
                 {
-                  "titel": "Life cycle management",
+                  "titel": "????????????????",
                   "icon": "fas fa-location-arrow fa-stack-1x",
                   "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
                   "titel": "Customized user views",
                   "icon": "fas fa-home fa-stack-1x",
-                  "description": "7Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                  "description": "Each user categori can get customized user interfaces"
                 },
                 {
                   "titel": "Cost effective",
