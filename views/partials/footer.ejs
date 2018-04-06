@@ -1,0 +1,29 @@
+<hr>
+<footer class="container-fluid" id="contact">
+  <section class="row mt-3 mb-3">
+	    <div class="col-lg-6 py-2">
+	      <div class="row justify-content-center">
+	        <div class="col-11 col-md-7 col-lg-12 col-xl-10 color d-flex justify-content-center align-items-center myheight">
+            <div>
+              <h4 class="text-center"><%= footer[0].titel %></h4>
+              <p class="text-center">by</p>
+              <a href="http://q2d.se/" target="_blank"><img src="../images/<%= footer[0].image %>" class="img-fluid" alt=""></a>
+            </div>
+	        </div>
+	      </div>
+	    </div>
+	    <div class="col-lg-6 py-2 ">
+	      <div class="row justify-content-center">
+	        <div class="col-11 col-md-7 col-lg-12 col-xl-10 d-flex justify-content-center align-items-center myheight">
+	          <div>
+              <h4><%= footer[0].contactHeading %></h4>
+              <p><%= footer[0].adressStreet %></p>
+              <p><%= footer[0].adressCity %></p>
+              <p><i class="<%= footer[0].iconPhone %>"></i> <%= footer[0].phone %></p>
+              <p><i class="<%= footer[0].iconEmail %>"></i> <%= footer[0].email %></p>
+	          </div>
+	        </div>
+	      </div>
+	    </div>
+	  </section>
+</footer>
