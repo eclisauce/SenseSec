@@ -39,11 +39,18 @@
 main {
   margin-top: -105px;
 }
+main #ourwork2 {
+  font-size: 20px;
+}
 main .services {
   background-color: rgba(11, 105, 191, 0.95);
 }
 main .services .icons {
   color: rgba(11, 105, 191, 0.95);
+}
+main .test2 {
+  border-radius: 5px;
+  filter: blur(1px);
 }
 h1,
 h2,
