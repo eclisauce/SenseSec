@@ -1,16 +1,11 @@
 {
   "siteInformation":[
     {
-      "description": "Design and build user interfaces"
-    },
-    {
-      "description": "Integration into other systems"
-    },
-    {
-      "description": "Other types of customization of the system"
-    },
-    {
-      "description": "Monthly support (comes with a service fee)"
+      "headingInformation": "Run your IoT network on SenseSec and be sure everything is secure at all times",
+      "servicesInformationITOne": "Design and build user interfaces",
+      "servicesInformationITTwo": "Integration into other systems",
+      "servicesInformationITThree": "Other types of customization of the system",
+      "servicesInformationITFour": "Monthly support (comes with a service fee)"
     }
   ]
 }

@@ -17,9 +17,13 @@
               <h4><strong><%= feature.titel %></strong></h4>
               <p>
                 <%= feature.description %>
-                <div id="<%=feature.number%>" class="collapse">
-                  <p>
+                <div id="<%=feature.number%>" class="collapse dropdownbox">
+                  <p class="p-2">
                     <%= feature.dropdown %>
+                    <a href="../images/<%= feature.image %>" data-toggle="lightbox" data-title="<%=feature.imageText %>" data-toggle="tooltip" data-placement="bottom" title="Click the image to enlarge">
+                      <img src="../images/<%= feature.image %>" alt="" class="img-fluid">
+                    </a>
+
                   </p>
                   </div>
               </p>
