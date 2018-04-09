@@ -1,13 +1,9 @@
 .main-header {
-  height: 600px;
-  width: 100%;
-  /*background-image: url('../images/bg.jpg');
-	background-size: cover;*/
+  height: 500px;
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-}
-.main-header #logo {
-  margin-top: 130px;
 }
 .topimage {
   height: 500px;
@@ -40,12 +36,8 @@
   background: rgba(11, 105, 191, 0.95);
   /* NON-IE */
 }
-main .card {
-  background-color: rgba(0, 0, 0, 0);
-}
-main .field1 {
-  height: 400px;
-  margin: 6px;
+main {
+  margin-top: -105px;
 }
 h1,
 h2,
