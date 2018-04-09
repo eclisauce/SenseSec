@@ -1,0 +1,16 @@
+main .card {
+  background-color: rgba(0, 0, 0, 0);
+}
+main .field1 {
+  height: 400px;
+  margin: 6px;
+}
+main #ourwork2 {
+  height: 90%;
+  width: 90%;
+}
+main #ourwork2Texts {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 80px;
+  margin: 5px;
+}
