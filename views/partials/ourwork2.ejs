@@ -1,11 +1,15 @@
 <h1 class="text-center mt-2"><%= headings[0].ourWorkHeading %></h1>
 
 <div class="row mb-3 mt-3 p-2 mx-auto" id="ourwork2">
-
+  <div class="col-lg-8 col-12">
+    <ul id="first">
     <%for (ourwork of ourwork2){%>
-      <div class="col-lg-4 col-12 mx-auto p-2" id="ourwork2Texts">
-        <h2><u><%= ourwork.heading %></u></h2>
-        <p><%= ourwork.description %></p>
-      </div>
+        <li class="mt-1"><%= ourwork.description %></li>
     <%}%>
+    </ul>
+    </div>
+    <div class="col-lg-4 col-12">
+      <img src="../images/test2.jpg" alt="" class="img-fluid test2">
+
+    </div>
 </div>

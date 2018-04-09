@@ -2,42 +2,60 @@
   "features":[
               {
                 "titel": "Manage devices",
-                "icon": "fas fa-shield-alt fa-stack-1x",
-                "description": "Manage sensors, gateways and servers."
+                "number":"1",
+                "icon": "fas fa-tablet-alt  fa-stack-1x",
+                "description": "Manage sensors, gateways and servers.",
+                "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
               },
               {
                 "titel": "Monitor",
-                "icon": "fas fa-battery-three-quarters fa-stack-1x",
-                "description": "Be sure that your network is constantly up an running"
+                "number":"2",
+                "icon": "fas fa-desktop fa-stack-1x",
+                "description": "Be sure that your network is constantly up an running",
+                "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, magna ai ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                   "titel": "Security management",
-                  "icon": "fas fa-wifi fa-stack-1x",
-                  "description": "Be assured security is constantly high"
+                  "number":"3",
+                  "icon": "fas fa-lock fa-stack-1x",
+                  "description": "Be assured security is constantly high",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tim id est laborum."
                 },
                 {
                   "titel": "Life cycle management",
-                  "icon": "fas fa-cloud fa-stack-1x",
-                  "description": "Keep track of all parts in the infrastructure and their history"
+                  "number":"4",
+                  "icon": "fas fa-circle-notch fa-stack-1x",
+                  "description": "Keep track of all parts in the infrastructure and their history",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                 },
                 {
                   "titel": "Integration",
-                  "icon": "far fa-clock fa-stack-1x",
-                  "description": "Integration to your existing systems"
+                  "number":"5",
+                  "icon": "fas fa-exchange-alt fa-stack-1x",
+                  "description": "Integration to your existing systems",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusserunt mollit anim id est laborum."
                 },
                 {
                   "titel": "????????????????",
+                  "number":"6",
                   "icon": "fas fa-location-arrow fa-stack-1x",
-                  "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                  "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum."
                 },
                 {
                   "titel": "Customized user views",
-                  "icon": "fas fa-home fa-stack-1x",
-                  "description": "Each user categori can get customized user interfaces"
+                  "number":"7",
+                  "icon": "fas fa-user fa-stack-1x",
+                  "description": "Each user categori can get customized user interfaces",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum."
+
                 },
                 {
                   "titel": "Cost effective",
+                  "number":"8",
                   "icon": "fas fa-dollar-sign fa-stack-1x",
-                  "description": "8Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                  "description": "8Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum."
+
                 }]
 }
