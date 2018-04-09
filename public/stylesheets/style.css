@@ -1,6 +1,6 @@
 .main-header {
   height: 500px;
-  background-image: url('../images/bg.jpg');
+  background-image: url('../images/bg2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -38,6 +38,12 @@
 }
 main {
   margin-top: -105px;
+}
+main .services {
+  background-color: rgba(11, 105, 191, 0.95);
+}
+main .services .icons {
+  color: rgba(11, 105, 191, 0.95);
 }
 h1,
 h2,
