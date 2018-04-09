@@ -2,27 +2,27 @@
   "features":[
               {
                 "titel": "Manage devices",
-                "icon": "fas fa-shield-alt fa-stack-1x",
+                "icon": "fas fa-tablet-alt  fa-stack-1x",
                 "description": "Manage sensors, gateways and servers."
               },
               {
                 "titel": "Monitor",
-                "icon": "fas fa-battery-three-quarters fa-stack-1x",
+                "icon": "fas fa-desktop fa-stack-1x",
                 "description": "Be sure that your network is constantly up an running"
                 },
                 {
                   "titel": "Security management",
-                  "icon": "fas fa-wifi fa-stack-1x",
+                  "icon": "fas fa-lock fa-stack-1x",
                   "description": "Be assured security is constantly high"
                 },
                 {
                   "titel": "Life cycle management",
-                  "icon": "fas fa-cloud fa-stack-1x",
+                  "icon": "fas fa-circle-notch fa-stack-1x",
                   "description": "Keep track of all parts in the infrastructure and their history"
                 },
                 {
                   "titel": "Integration",
-                  "icon": "far fa-clock fa-stack-1x",
+                  "icon": "fas fa-exchange-alt fa-stack-1x",
                   "description": "Integration to your existing systems"
                 },
                 {
@@ -32,7 +32,7 @@
                 },
                 {
                   "titel": "Customized user views",
-                  "icon": "fas fa-home fa-stack-1x",
+                  "icon": "fas fa-user fa-stack-1x",
                   "description": "Each user categori can get customized user interfaces"
                 },
                 {
