@@ -6,6 +6,7 @@ let ourwork2Json = require('../json/ourwork2.json');
 let siteInformationJson = require('../json/siteInformation.json');
 let teknikJson = require('../json/teknikInformation.json');
 let fordelarJson = require('../json/fordelar.json');
+let servicesJson = require('../json/services.json');
 
 
 exports.home = function(req, res) {
@@ -15,6 +16,7 @@ exports.home = function(req, res) {
 	let footer = footerJson.footer;
 	let ourwork2 = ourwork2Json.ourwork2;
 	let siteInformation = siteInformationJson.siteInformation;
+	let services = servicesJson.services;
 
 	res.render('home', {
 		title: "SenseSec",
@@ -22,7 +24,8 @@ exports.home = function(req, res) {
 		headings: headings,
 		footer: footer,
 		ourwork2: ourwork2,
-		siteInformation: siteInformation
+		siteInformation: siteInformation,
+		services: services
 	});
 };
 
