@@ -3,37 +3,37 @@
               {
                 "titel": "Manage devices",
                 "icon": "fas fa-shield-alt fa-stack-1x",
-                "description": "1Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "description": "Manage sensors, gateways and servers."
               },
               {
                 "titel": "Monitor",
                 "icon": "fas fa-battery-three-quarters fa-stack-1x",
-                "description": "2Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                "description": "Be sure that your network is constantly up an running"
                 },
                 {
                   "titel": "Security management",
                   "icon": "fas fa-wifi fa-stack-1x",
-                  "description": "3Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-                },
-                {
-                  "titel": "Integration",
-                  "icon": "fas fa-cloud fa-stack-1x",
-                  "description": "4Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-                },
-                {
-                  "titel": "Easy to set-up",
-                  "icon": "far fa-clock fa-stack-1x",
-                  "description": "5Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                  "description": "Be assured security is constantly high"
                 },
                 {
                   "titel": "Life cycle management",
+                  "icon": "fas fa-cloud fa-stack-1x",
+                  "description": "Keep track of all parts in the infrastructure and their history"
+                },
+                {
+                  "titel": "Integration",
+                  "icon": "far fa-clock fa-stack-1x",
+                  "description": "Integration to your existing systems"
+                },
+                {
+                  "titel": "????????????????",
                   "icon": "fas fa-location-arrow fa-stack-1x",
                   "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit."
                 },
                 {
                   "titel": "Customized user views",
                   "icon": "fas fa-home fa-stack-1x",
-                  "description": "7Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+                  "description": "Each user categori can get customized user interfaces"
                 },
                 {
                   "titel": "Cost effective",
