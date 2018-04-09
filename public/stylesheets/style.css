@@ -48,6 +48,9 @@ main .services {
 main .services .icons {
   color: rgba(11, 105, 191, 0.95);
 }
+main .services a {
+  cursor: pointer;
+}
 main .test2 {
   border-radius: 5px;
   filter: blur(1px);

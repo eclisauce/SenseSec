@@ -8,14 +8,22 @@
         <% for (feature of features){ %>
           <div class="col-md-3 col-sm-12">
             <div class="service-item text-light">
+              <a data-target="#<%=feature.number%>" data-toggle="collapse" data-toggle="tooltip" data-placement="bottom" title="Click for more information">
               <span class="fa-stack fa-2x">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="<%= feature.icon %> icons"></i>
                 </span>
+                </a>
               <h4><strong><%= feature.titel %></strong></h4>
               <p>
                 <%= feature.description %>
+                <div id="<%=feature.number%>" class="collapse">
+                  <p>
+                    <%= feature.dropdown %>
+                  </p>
+                  </div>
               </p>
+
             </div>
           </div>
           <%}%>
