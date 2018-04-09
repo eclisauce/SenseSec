@@ -13,3 +13,5 @@ p{font-family:'Noto Sans',sans-serif}
 .teknik-header{margin-bottom:150px}
 .fordelar-header{margin-bottom:150px}
 .fordelar-sida{background-color:rgba(0,0,0,.05)}
+.whySenseSec{text-align:center;top:- 10px;left:90px;border-radius:100px;background-color:#d3d3d3;padding:10px;z-index:1000;margin-bottom:5px;margin-left:90px;margin-top:10px;width:900px}
+.whySenseSecH1{font-size:20px}
