@@ -1,8 +1,11 @@
 {
   "siteInformation":[
     {
-      "ourWorkInformation": "Hej hopp här kan man ändra information om detta stycke",
-      "headingInformation": "Run your IoT network on SenseSec and be sure everything is secure at all times"
+      "headingInformation": "Run your IoT network on SenseSec and be sure everything is secure at all times",
+      "servicesInformationITOne": "Design and build user interfaces",
+      "servicesInformationITTwo": "Integration into other systems",
+      "servicesInformationITThree": "Other types of customization of the system",
+      "servicesInformationITFour": "Monthly support (comes with a service fee)"
     }
   ]
 }
