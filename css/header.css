@@ -40,34 +40,3 @@
   background: rgba(11, 105, 191, 0.95);
   /* NON-IE */
 }
-main .card {
-  background-color: rgba(0, 0, 0, 0);
-}
-main .field1 {
-  height: 400px;
-  margin: 6px;
-}
-main #ourwork2 {
-  height: 90%;
-  width: 90%;
-}
-main #ourwork2Texts {
-  background-color: rgba(0, 0, 0, 0.05);
-  border-radius: 2px;
-}
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-family: 'Source Serif Pro', serif;
-}
-p {
-  font-family: 'Noto Sans', sans-serif;
-}
-.teknik-header {
-  margin-bottom: 150px;
-}
-.fordelar-header {
-  margin-bottom: 150px;
-}
