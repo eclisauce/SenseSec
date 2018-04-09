@@ -1,8 +1,16 @@
 {
   "siteInformation":[
     {
-      "ourWorkInformation": "Hej hopp här kan man ändra information om detta stycke",
-      "headingInformation": "A tailor made security system for sensors"
+      "description": "Design and build user interfaces"
+    },
+    {
+      "description": "Integration into other systems"
+    },
+    {
+      "description": "Other types of customization of the system"
+    },
+    {
+      "description": "Monthly support (comes with a service fee)"
     }
   ]
 }
