@@ -14,7 +14,7 @@
                 "number":"2",
                 "icon": "fas fa-desktop fa-stack-1x",
                 "description": "Be sure that your network is constantly up an running",
-                "dropdown":"SenseSec constantly checks all part in your infrastructure. If something happens you will get an alert and, if possible, be guided to solve the problem. If you have a system for handling alerts and alarms already, alarms can be sent fron SenseSec to that system",
+                "dropdown":"SenseSec constantly checks all parts in your infrastructure. If something happens you will get an alert and, if possible, be guided to solve the problem. If you have a system for handling alerts and alarms already, alarms can be sent fron SenseSec to that system",
                 "image": "monitor.jpg",
                 "imageText":""
                 },
@@ -32,7 +32,7 @@
                   "number":"4",
                   "icon": "fas fa-circle-notch fa-stack-1x",
                   "description": "Keep track of all parts in the infrastructure and their history",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "dropdown":"Keep track of your device and its history. That could be locations, service or known problems for that device.",
                   "image": "",
                   "imageText":""
                 },
@@ -49,7 +49,7 @@
                   "titel": "Control from ONE place",
                   "number":"6",
                   "icon": "fas fa-check fa-stack-1x",
-                  "description": "6Regardless of underlying technology",
+                  "description": "Regardless of underlying technology",
                   "dropdown":"If you have IoT networks built on different technologies (E.g. Wifi and LoRa) in your organization you can control them all from SenseSec",
                   "image": "",
                   "imageText":""
