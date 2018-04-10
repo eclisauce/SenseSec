@@ -48,7 +48,7 @@
                 {
                   "titel": "Control from ONE place",
                   "number":"6",
-                  "icon": "fas fa-location-arrow fa-stack-1x",
+                  "icon": "fas fa-check fa-stack-1x",
                   "description": "6Regardless of underlying technology",
                   "dropdown":"If you have IoT networks built on different technologies (E.g. Wifi and LoRa) in your organization you can control them all from SenseSec",
                   "image": "",

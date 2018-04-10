@@ -40,7 +40,11 @@ main {
   margin-top: -105px;
 }
 main #ourwork2 {
-  font-size: 19px;
+  font-size: 20px;
+  margin: 5px;
+}
+main li {
+  margin: 6px;
 }
 main .services {
   background-color: rgba(11, 105, 191, 0.95);
