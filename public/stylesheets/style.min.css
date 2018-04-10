@@ -1,0 +1,17 @@
+.topimage{height:500px;width:100%;position:relative;text-align:center;color:#fff}
+.centered{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
+.main-header #logo{margin-top:130px}
+.navbar{background-color:rgba(0,0,0,.3);-webkit-transition:all .6s ease-out;-moz-transition:all .6s ease-out;-o-transition:all .6s ease-out;-ms-transition:all .6s ease-out;transition:all .6s ease-out}
+.navbar #logo-nav{width:60%;max-width:300px}
+.navbar.scrolled{background:#444;background:rgba(11,105,191,.95)}
+main .card{background-color:rgba(0,0,0,0)}
+main .field1{height:400px;margin:6px}
+main #ourwork2{height:90%;width:90%}
+main #ourwork2Texts{background-color:rgba(0,0,0,.05);border-radius:2px}
+h1,h2,h3,h4,h5{font-family:'Source Serif Pro',serif}
+p{font-family:'Noto Sans',sans-serif}
+.teknik-header{margin-bottom:150px}
+.fordelar-header{margin-bottom:150px}
+.fordelar-sida{background-color:rgba(0,0,0,.05)}
+.whySenseSec{text-align:center;top:- 10px;left:90px;border-radius:100px;background-color:#d3d3d3;padding:10px;z-index:1000;margin-bottom:5px;margin-left:90px;margin-top:10px;width:900px}
+.whySenseSecH1{font-size:20px}

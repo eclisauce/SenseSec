@@ -1,8 +1,12 @@
 {
   "headings":[{
-                "siteHeading": "Sensor Security for the modern world",
+                "topImageCenterText":"SensorSec",
+                "topImageCenterTextRowTwo":"Reliable and secure IoT networks",
+                "siteHeading": "1Sensor Security for the modern world",
                 "featureHeading": "Features",
-                "ourWorkHeading": "Our Work",
+                "ourWorkHeading": "Reliable operation for your IoT network",
+                "servicesHeading": "What services do we provide?",
+                "servicesHeadingTwo": "IT:",
                 "teknikHeading": "Technique",
                 "fordelarHeading": "Why Choose us?"
               }

@@ -1,0 +1,17 @@
+
+{
+  "services":[
+    {
+      "description": "Design and build user interfaces"
+    },
+    {
+      "description": "Integration into other systems"
+    },
+    {
+      "description": "Other types of customization of the system"
+    },
+    {
+      "description": "Monthly support (comes with a service fee)"
+    }
+  ]
+}

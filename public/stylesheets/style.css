@@ -1,13 +1,22 @@
 .main-header {
-  height: 400px;
-  width: 100%;
-  background-image: url('../images/bg.jpg');
+  height: 500px;
+  background-image: url('../images/bg2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
-.main-header #logo {
-  margin-top: 130px;
+.topimage {
+  height: 500px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .navbar {
   background-color: rgba(0, 0, 0, 0.3);
@@ -27,20 +36,31 @@
   background: rgba(11, 105, 191, 0.95);
   /* NON-IE */
 }
-main .card {
-  background-color: rgba(0, 0, 0, 0);
-}
-main .field1 {
-  height: 400px;
-  margin: 6px;
+main {
+  margin-top: -105px;
 }
 main #ourwork2 {
-  height: 90%;
-  width: 90%;
+  font-size: 20px;
 }
-main #ourwork2Texts {
-  background-color: rgba(0, 0, 0, 0.05);
-  border-radius: 2px;
+main .services {
+  background-color: rgba(11, 105, 191, 0.95);
+}
+main .services .icons {
+  color: rgba(11, 105, 191, 0.95);
+}
+main .services a {
+  cursor: pointer;
+}
+main .test2 {
+  border-radius: 5px;
+  filter: blur(1px);
+}
+main .dropdownbox {
+  background-color: rgba(2, 25, 46, 0.3);
+  border-radius: 5px;
+}
+main #featuresImages {
+  cursor: zoom-in;
 }
 h1,
 h2,
@@ -52,12 +72,12 @@ h5 {
 p {
   font-family: 'Noto Sans', sans-serif;
 }
+#first li {
+  font-family: 'Rubik', sans-serif;
+}
 .teknik-header {
-  margin-bottom: 150px;
+  margin-bottom: 120px;
 }
 .fordelar-header {
-  margin-bottom: 150px;
-}
-.fordelar-sida {
-  background-color: rgba(0, 0, 0, 0.05);
+  margin-bottom: 120px;
 }
