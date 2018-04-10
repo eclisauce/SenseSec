@@ -23,7 +23,7 @@
                   "number":"3",
                   "icon": "fas fa-lock fa-stack-1x",
                   "description": "Be assured security is constantly high",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tim id est laborum.",
+                  "dropdown":"Manage security features. Update security keys. Keep track of different devices capabilities regarding safety.",
                   "image": "",
                   "imageText":""
                 },
@@ -41,7 +41,7 @@
                   "number":"5",
                   "icon": "fas fa-exchange-alt fa-stack-1x",
                   "description": "Integration to your existing systems",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusserunt mollit anim id est laborum.",
+                  "dropdown":"Integrate to your existing systems. E. g. user administration and access rights, systems for life cycle management of current equipment and SCADA systems.",
                   "image": "",
                   "imageText":""
                 },
