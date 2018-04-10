@@ -12,7 +12,7 @@
             "description": "SenseSec is designed for being integrated into organization's existing IT landscape."
         },
         {
-          "description": "SenseSec is designed to manage IoT networks regardless of underlying technology like LoRa, Zigbee, Wifi, Blutooth etc. "
+            "description": "SenseSec is designed to manage IoT networks regardless of underlying technology like LoRa, Zigbee, Wifi, Blutooth etc. "
         }
     ]
 }
