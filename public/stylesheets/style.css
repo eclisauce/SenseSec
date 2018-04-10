@@ -72,6 +72,9 @@ h5 {
 p {
   font-family: 'Noto Sans', sans-serif;
 }
+#first li {
+  font-family: 'Rubik', sans-serif;
+}
 .teknik-header {
   margin-bottom: 120px;
 }
