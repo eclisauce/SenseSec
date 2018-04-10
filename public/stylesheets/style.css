@@ -59,6 +59,9 @@ main .dropdownbox {
   background-color: rgba(2, 25, 46, 0.3);
   border-radius: 5px;
 }
+main #featuresImages {
+  cursor: zoom-in;
+}
 h1,
 h2,
 h3,

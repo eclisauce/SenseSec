@@ -21,7 +21,7 @@
                 <div id="<%=feature.number%>" class="collapse dropdownbox">
                   <p class="p-2">
                     <%= feature.dropdown %>
-                    <a href="../images/<%= feature.image %>" data-toggle="lightbox" data-title="<%=feature.imageText %>" data-toggle="tooltip" data-placement="bottom" title="Click the image to enlarge">
+                    <a id="featuresImages" href="../images/<%= feature.image %>" data-toggle="lightbox" data-title="<%=feature.imageText %>" data-toggle="tooltip" data-placement="bottom" title="Click to enlarge">
                       <img src="../images/<%= feature.image %>" alt="" class="img-fluid">
                     </a>
 
