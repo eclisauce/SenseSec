@@ -7,7 +7,7 @@
                 "description": "Manage sensors, gateways and servers.",
                 "dropdown":"Our interface with the devices",
                 "image": "manage-devices.jpg",
-                "imageText":"Beskrivande text för bilden"
+                "imageText":"Add, replace, delete devices. Upload many device keys from files. Add metadata. Control gateways and servers"
               },
               {
                 "titel": "Monitor",
