@@ -1,18 +1,18 @@
 {
     "ourwork2": [
         {
-            "description": "SenseSec is for organizations who want to set up their own IoT network infrastructure and run it in a secure and cost effective way on their own servers."
+            "description": "Sensesec is for organizations who want to set up their own IoT network infrastructure and run it in a secure and cost effective way on their own servers."
         },
 
         {
-            "description": "SenseSec is designed to manage IoT networks regardless of underlying technology like LoRa,Zigbee, WIfi, Blutooth etc."
+            "description": "SenseSec is especially targeted towards organizations who have high demands on security"
         },
 
         {
-            "description": "Infrastructure and run it in a secure and cost effective way on their own servers."
+            "description": "SenseSec is designed for being integrated into organization's existing IT landscape."
         },
         {
-          "description": "SenseSec is especially targeted towards organizations who have high demand on secrity."
+            "description": "SenseSec is designed to manage IoT networks regardless of underlying technology like LoRa, Zigbee, Wifi, Blutooth etc. "
         }
     ]
 }
