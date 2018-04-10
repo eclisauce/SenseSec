@@ -14,7 +14,7 @@
                 "number":"2",
                 "icon": "fas fa-desktop fa-stack-1x",
                 "description": "Be sure that your network is constantly up an running",
-                "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, magna ai ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "dropdown":"SenseSec constantly checks all part in your infrastructure. If something happens you will get an alert and, if possible, be guided to solve the problem. If you have a system for handling alerts and alarms already, alarms can be sent fron SenseSec to that system",
                 "image": "monitor.jpg",
                 "imageText":""
                 },
