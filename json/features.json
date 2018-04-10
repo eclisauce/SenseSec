@@ -15,7 +15,7 @@
                 "icon": "fas fa-desktop fa-stack-1x",
                 "description": "Be sure that your network is constantly up an running",
                 "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, magna ai ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "image": "",
+                "image": "monitor.jpg",
                 "imageText":""
                 },
                 {
@@ -60,7 +60,7 @@
                   "icon": "fas fa-user fa-stack-1x",
                   "description": "Each user categori can get customized user interfaces",
                   "dropdown":"This is an example with readings from a LoRa device connected to a rain gauge meter.",
-                  "image": "",
+                  "image": "user-view.jpg",
                   "imageText":""
 
                 },
