@@ -40,7 +40,7 @@ main {
   margin-top: -105px;
 }
 main #ourwork2 {
-  font-size: 20px;
+  font-size: 19px;
 }
 main .services {
   background-color: rgba(11, 105, 191, 0.95);
@@ -52,12 +52,12 @@ main .services a {
   cursor: pointer;
 }
 main .test2 {
-  border-radius: 5px;
+  border-radius: 3px;
   filter: blur(1px);
 }
 main .dropdownbox {
   background-color: rgba(2, 25, 46, 0.3);
-  border-radius: 5px;
+  border-radius: 3px;
 }
 main #featuresImages {
   cursor: zoom-in;
