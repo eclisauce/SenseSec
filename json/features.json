@@ -61,7 +61,7 @@
                   "description": "Each user categori can get customized user interfaces",
                   "dropdown":"This is an example with readings from a LoRa device connected to a rain gauge meter.",
                   "image": "user-view.jpg",
-                  "imageText":"A customized user view. A LoRa device connected to a rain gauge meter"
+                  "imageText":"A customized user view showing readings from a rain gauge meter connected to a LoRa device"
 
                 },
                 {
