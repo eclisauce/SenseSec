@@ -14,9 +14,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', routes.home);
 
-app.get('/teknik', routes.teknik);
-
-app.get('/fordelar', routes.fordelar);
 
 
 // Listen on port 3000
