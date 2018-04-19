@@ -1,17 +1,28 @@
 
 {
-  "services":[
+  "servicesLists":[
     {
-      "description": "Design and build user interfaces"
+      "listText": "Design and build user interfaces"
     },
     {
-      "description": "Integration into other systems"
+      "listText": "Integration into other systems"
     },
     {
-      "description": "Other types of customization of the system"
+      "listText": "Other types of customization of the system"
     },
     {
-      "description": "Monthly support (comes with a service fee)"
+      "listText": "Monthly support (comes with a service fee)"
+    }
+  ],
+  "SenseSecLists":[
+    {
+      "listText": "With minimal pre-knowledge workers can get into the system"
+    },
+    {
+      "listText": "Easy UI to minimize risks and read data from devices"
+    },
+    {
+      "listText": ""
     }
   ]
 }

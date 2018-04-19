@@ -66,6 +66,12 @@ main .dropdownbox {
 main #featuresImages {
   cursor: zoom-in;
 }
+main #first {
+  list-style: none;
+}
+main #services ul {
+  list-style: none;
+}
 h1,
 h2,
 h3,

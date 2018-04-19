@@ -14,7 +14,8 @@ exports.home = function(req, res) {
 	let footer = footerJson.footer;
 	let ourwork2 = ourwork2Json.ourwork2;
 	let siteInformation = siteInformationJson.siteInformation;
-	let services = servicesJson.services;
+	let servicesLists = servicesJson.servicesLists;
+	let SenseSecLists = servicesJson.SenseSecLists;
 
 	res.render('home', {
 		title: "SenseSec",
@@ -23,6 +24,7 @@ exports.home = function(req, res) {
 		footer: footer,
 		ourwork2: ourwork2,
 		siteInformation: siteInformation,
-		services: services
+		servicesLists: servicesLists,
+		SenseSecLists: SenseSecLists
 	});
 };
