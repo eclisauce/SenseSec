@@ -6,24 +6,24 @@
                 "icon": "fas fa-tablet-alt  fa-stack-1x",
                 "description": "Manage sensors, gateways and servers.",
                 "dropdown":"Our interface with the devices",
-                "image": "manage-devices.jpg",
-                "imageText":"Beskrivande text för bilden"
+                "image": "manage-devices1.jpg",
+                "imageText":"Add, replace, delete devices. Upload many device keys from files. Add metadata. Control gateways and servers"
               },
               {
                 "titel": "Monitor",
                 "number":"2",
                 "icon": "fas fa-desktop fa-stack-1x",
                 "description": "Be sure that your network is constantly up an running",
-                "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, magna ai ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "image": "",
-                "imageText":""
+                "dropdown":"SenseSec constantly checks all parts in your infrastructure.",
+                "image": "monitor.jpg",
+                "imageText":"Monitor your infrastructure with SenseSec and detect potential problems. Alarms and alerts can be sent out for events"
                 },
                 {
                   "titel": "Security management",
                   "number":"3",
                   "icon": "fas fa-lock fa-stack-1x",
                   "description": "Be assured security is constantly high",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tim id est laborum.",
+                  "dropdown":"Manage security features. Update security keys. Keep track of different devices capabilities regarding safety.",
                   "image": "",
                   "imageText":""
                 },
@@ -32,7 +32,7 @@
                   "number":"4",
                   "icon": "fas fa-circle-notch fa-stack-1x",
                   "description": "Keep track of all parts in the infrastructure and their history",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "dropdown":"Keep track of your device and its history. That could be locations, service or known problems for that device.",
                   "image": "",
                   "imageText":""
                 },
@@ -41,16 +41,16 @@
                   "number":"5",
                   "icon": "fas fa-exchange-alt fa-stack-1x",
                   "description": "Integration to your existing systems",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusserunt mollit anim id est laborum.",
+                  "dropdown":"Integrate to your existing systems. E. g. user administration and access rights, systems for life cycle management of current equipment and SCADA systems.",
                   "image": "",
                   "imageText":""
                 },
                 {
-                  "titel": "????????????????",
+                  "titel": "Control from ONE place",
                   "number":"6",
-                  "icon": "fas fa-location-arrow fa-stack-1x",
-                  "description": "6Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum.",
+                  "icon": "fas fa-check fa-stack-1x",
+                  "description": "Regardless of underlying technology",
+                  "dropdown":"If you have IoT networks built on different technologies (E.g. Wifi and LoRa) in your organization you can control them all from SenseSec",
                   "image": "",
                   "imageText":""
                 },
@@ -59,16 +59,16 @@
                   "number":"7",
                   "icon": "fas fa-user fa-stack-1x",
                   "description": "Each user categori can get customized user interfaces",
-                  "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum.",
-                  "image": "",
-                  "imageText":""
+                  "dropdown":"This is an example with readings from a LoRa device connected to a rain gauge meter.",
+                  "image": "user-view.jpg",
+                  "imageText":"A customized user view showing readings from a rain gauge meter connected to a LoRa device"
 
                 },
                 {
                   "titel": "Cost effective",
                   "number":"8",
                   "icon": "fas fa-dollar-sign fa-stack-1x",
-                  "description": "8Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                  "description": "Modular design makes it affordable for small and large businesses.",
                   "dropdown":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.laborum.",
                   "image": "",
                   "imageText":""
