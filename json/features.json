@@ -5,7 +5,7 @@
                 "number":"1",
                 "icon": "fas fa-tablet-alt  fa-stack-1x",
                 "description": "Manage sensors, gateways and servers.",
-                "dropdown":"Our interface with the devices",
+                "dropdown":"",
                 "image": "manage-devices1.jpg",
                 "imageText":"Add, replace, delete devices. Upload many device keys from files. Add metadata. Control gateways and servers"
               },
