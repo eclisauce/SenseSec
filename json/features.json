@@ -16,7 +16,7 @@
                 "description": "Be sure that your network is constantly up an running",
                 "dropdown":"SenseSec constantly checks all parts in your infrastructure.",
                 "image": "monitor.jpg",
-                "imageText":"Monitor your infrastructure with SenseSec and detect potential problems. Alarms and alerts can be sent out for events"
+                "imageText":"Monitor your infrastructure with SenseSec and detect potential problems. Alarms and alerts can be sent out."
                 },
                 {
                   "titel": "Security management",
