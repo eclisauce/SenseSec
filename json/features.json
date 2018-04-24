@@ -32,7 +32,7 @@
                   "number":"4",
                   "icon": "fas fa-circle-notch fa-stack-1x",
                   "description": "Keep track of all parts in the infrastructure and their history",
-                  "dropdown":"Keep track of your device and its history. That could be locations, service or known problems for that device.",
+                  "dropdown":"",
                   "image": "",
                   "imageText":""
                 },
