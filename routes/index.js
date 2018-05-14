@@ -4,7 +4,7 @@ let headingsJson = require('../json/headings.json');
 let footerJson = require('../json/footer.json');
 let ourwork2Json = require('../json/ourwork2.json');
 let siteInformationJson = require('../json/siteInformation.json');
-let servicesJson = require('../json/services.json');
+
 
 
 exports.home = function(req, res) {
@@ -14,7 +14,7 @@ exports.home = function(req, res) {
 	let footer = footerJson.footer;
 	let ourwork2 = ourwork2Json.ourwork2;
 	let siteInformation = siteInformationJson.siteInformation;
-	let services = servicesJson.services;
+
 
 	res.render('home', {
 		title: "SenseSec",
@@ -23,6 +23,5 @@ exports.home = function(req, res) {
 		footer: footer,
 		ourwork2: ourwork2,
 		siteInformation: siteInformation,
-		services: services
 	});
 };
